@@ -53,7 +53,7 @@ Nesta interface a imagem do transporte é apenas ilustrativa não serve como bot
 ![transporte](transporte.jpg)
 
 ### Interface 9 : Dicas (Poliana)
-
+Ao clicar na fruta que está na interface do menu, abrirá uma nova interface denominada como dicas, essa dicas serão de acordo com a respectiva fruta ou hortaliça escolhida.  As dicas informam como manter elas em bom estado de conservação e como armazenar e casos de unir a outras frutas quais serão mais adequedas. Já nas hortaliças a temperatura e a forma de limpeza e em qual recipiente pode está mais adequada para a conservação, entre outras dicas. Primeiramente, vamos inserir essass três interfaces de dicas, posteriormente veremos com o professor Marcelo como desenvolver um banco de dados ou um json que demonstre as demais opções e como manter padronizado as dicas das demais frutas ou hortaliças. Como vamos alimentar as informações dessas dicas e em qual intervalo de tempo será adcionadas. Mantendo assim um padrão.
 ![dicas](dicas.jpg)
 
 ### Referências
