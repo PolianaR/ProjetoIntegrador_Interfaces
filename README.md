@@ -48,7 +48,8 @@ GRUPO:
 ![ambiente](ambient.jpg)
 
 ### Interface 8 : Transporte (Poliana)
-
+Tela " ": Transporte
+Nesta interface a imagem do transporte é apenas ilustrativa não serve como botão. No eclipse com fundo verde que demonstrará através de uma nova temperatura é um botão que irá mostrar a página que medirá a temperatura máxima, média e outro eclipse com imagem de mapa é um botão que analisaremos se será necessário uma interface ou será um link para páginas
 ![transporte](transporte.jpg)
 
 ### Interface 9 : Dicas (Poliana)
