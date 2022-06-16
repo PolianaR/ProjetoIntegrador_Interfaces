@@ -27,6 +27,7 @@ GRUPO:
 ![tela Login](login.jpg) ![tela cadastro](cadastro.jpg)
 
 ### Interface 3 : Menu das frutas/verduras (Poliana)
+Para o usuário selecionar as opções das frutas disponíveis é clicar no botão da imagem da fruta necessária ou hortaliça. Caso não tenha o botão da fruta ou hortaliça no menu, será pesquisado atras do botão "outras opções" no espaço ou o usuário colocará digitado a fruta ou hortaliça e clica no botão da lupa de pesquisar. Após clicar em fruta disponível no menu ou escrever a opção vai ser enviada para outra tela com a dica da fruta ou hortaliça.
 
 ![Menu Frutas](menu.jpg)
 
